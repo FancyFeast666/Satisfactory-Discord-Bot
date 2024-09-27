@@ -1,5 +1,6 @@
 Satisfactory Discord bot that utilizes API calls, web-scraping, and databases. 
 The code for the API calls was made by: https://github.com/Jayy001/PyFactoryBridge/tree/main/pyfactorybridge
+Currently web-scrapes off: https://satisfactory-calculator.com/en/interactive-map for certain in-game statistics
 
 Current support discord commands:
 
